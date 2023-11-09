@@ -16,7 +16,7 @@ function AboutFooter() {
                 <div className="top-h d-flex justify-content-between ">
                     <div className="f-content">
                         <h1>Looking for the <span> Business</span> Solution ?  </h1>
-                        <p>Don’t wait make a smart & logical quote here. Its pretty easy.</p>
+                        <p>&apos;Don’t wait make a smart & logical quote here. Its pretty easy.</p>
                     </div>
                     <div className="f-button">
                         <button className='get-button' >Get quate now </button>
@@ -28,7 +28,7 @@ function AboutFooter() {
                             <Image className='logo-imgfooter' src={logof} alt="logo" />
                             <p className='logof ' >  Kandra Digital</p>
                         </div>
-                        <p>An agency that’s been built with the core purpose of delivering the quality digital marketing in the era where Digital marketing services are just business rather than the value for the business, business owners and their resources/time.</p>
+                        <p>An agency &apos;that’s been built with the core purpose of delivering the quality digital marketing in the era where Digital marketing services are just business rather than the value for the business, business owners and their resources/time.</p>
                     </div>
                     <div className="help">
                         <h4>Help?</h4>

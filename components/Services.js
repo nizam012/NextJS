@@ -11,15 +11,15 @@ function Services() {
                 <p>Google is top search engine thats been most used by the internet surfers to quickly search and find what they are looking for and this being the reason it becomes very crucial for businesses being available to the right audiences and for the searches on the Google search engine or the Bing search engine. The beautiful part is Google allows the businesses to make their presence by taking part of the auction using the Google ads platform.Google is top search engine thats been most used by the internet surfers to quickly search and find what they are looking for and this being the reason it becomes very crucial for businesses being available to the right audiences and for the searches on the Google search engine or the Bing search engine. The beautiful part is Google allows the businesses to make their presence by taking part of the auction using the Google ads platform.</p>
 
             </div>
-            <div className="scroll-service d-flex flex-column">
+            <div className="scroll d-flex flex-column">
                 <div className="container">
                     <div className="d-flex">
 
                         <div className="icon">
-                            <HiOutlineComputerDesktop className='about-icons' size={50} />
+                            <HiOutlineComputerDesktop className="about-icons" size={50} />
                         </div>
                         <div className="contentt ">
-                            <h5>Elevate Your Website's Visibility</h5>
+                            <h5>Elevate Your &apos;Website's Visibility</h5>
                             <p>Utilize paid marketing strategies to position your website at the forefront of Google search results</p>
                         </div>
                       
@@ -29,10 +29,10 @@ function Services() {
                     <div className="d-flex">
 
                         <div className="icon">
-                            <HiOutlineComputerDesktop className='about-icons' size={50} />
+                            <HiOutlineComputerDesktop className="about-icons" size={50} />
                         </div>
                         <div className="contentt ">
-                            <h5>Elevate Your Website's Visibility</h5>
+                            <h5>Elevate Your &apos;Website's Visibility</h5>
                             <p>Utilize paid marketing strategies to position your website at the forefront of Google search results</p>
                         </div>
                       
@@ -41,10 +41,10 @@ function Services() {
                     <div className="d-flex">
 
                         <div className="icon">
-                            <HiOutlineComputerDesktop className='about-icons' size={50} />
+                            <HiOutlineComputerDesktop className="about-icons" size={50} />
                         </div>
                         <div className="contentt ">
-                            <h5>Elevate Your Website's Visibility</h5>
+                            <h5>Elevate Your &apos;Website's Visibility</h5>
                             <p>Utilize paid marketing strategies to position your website at the forefront of Google search results</p>
                         </div>
                       
@@ -53,10 +53,10 @@ function Services() {
                     <div className="d-flex">
 
                         <div className="icon">
-                            <HiOutlineComputerDesktop className='about-icons' size={50} />
+                            <HiOutlineComputerDesktop className="about-icons" size={50} />
                         </div>
                         <div className="contentt ">
-                            <h5>Elevate Your Website's Visibility</h5>
+                            <h5>Elevate Your &apos;Website's Visibility</h5>
                             <p>Utilize paid marketing strategies to position your website at the forefront of Google search results</p>
                         </div>
                       
@@ -65,10 +65,10 @@ function Services() {
                     <div className="d-flex">
 
                         <div className="icon">
-                            <HiOutlineComputerDesktop className='about-icons' size={50} />
+                            <HiOutlineComputerDesktop className="about-icons" size={50} />
                         </div>
                         <div className="contentt ">
-                            <h5>Elevate Your Website's Visibility</h5>
+                            <h5>Elevate Your &apos;Website's Visibility</h5>
                             <p>Utilize paid marketing strategies to position your website at the forefront of Google search results</p>
                         </div>
                       
