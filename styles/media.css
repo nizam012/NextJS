@@ -1,0 +1,497 @@
+/* Phone view */
+@media (max-width: 590px) {
+    .nav-bar .middle {
+        display: none !important;
+    }
+
+    .logo .logo1 {
+        margin: 10px 10px;
+    }
+    .logo .logo-img{
+        margin-top: 4px;
+    }
+
+    .about {
+        height: 200px !important;
+    }
+
+    .ab-p {
+        padding: 0;
+        line-height: 20px;
+        font-size: 14px;
+        color: black;
+    }
+
+    .box-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box-container .box-items {
+        padding: 10px 20px;
+        margin: 10px 0;
+    }
+
+    .difference {
+        background-image: none;
+    }
+
+    .difference .container {
+        flex-direction: column;
+    }
+
+    .box-items p {
+        color: white;
+    }
+
+    .vision h4,
+    p {
+        color: rgba(72, 70, 240, 1);
+    }
+
+    .vision {
+        width: 100%;
+    }
+    .vision p{
+        font-size: 14px;
+    }
+
+    .mission h4,
+    p {
+        color: rgba(72, 70, 240, 1);
+    }
+    .mission p{
+        font-size: 14px;
+    }
+    .content-1 h3{
+        font-size: 16px;
+    }
+    .scroll h5{
+        font-size: 16px;
+    }
+    .scroll p{
+        color: black;
+        font-size: 14px;
+    }
+    .container1 .scroll h5{
+        font-size: 16px;
+    }
+    .container1 .scroll p{
+        color: black;
+        font-size: 14px;
+    }
+    .container .about-icons{
+        width: 100%;
+        padding: 10px;
+    }
+    .service h1{
+        font-size: 16px;
+    }
+    .service h5{
+        font-size: 15px;
+    }
+    .service p{
+        font-size: 14px;
+    }
+.content-1 p{
+    color: black;
+    font-size: 14px;
+}
+    .mission {
+        width: 100%;
+    }
+
+    .container1 {
+        width: 100%;
+        margin: 2px;
+    }
+
+    .scroll {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .container1 .left {
+        width: 100%;
+    }
+
+    .container1 .right {
+        display: none;
+    }
+
+    .con-button {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .map {
+        height: 350px;
+    }
+
+    .container1 .service {
+        width: 100%;
+    }
+
+    .clservice {
+        flex-direction: column;
+        margin: 20px 0;
+    }
+
+    .service p {
+        line-height: 20px;
+    }
+
+    .accontainer {
+        margin: 20px 0;
+    }
+
+    .footercom {
+        padding: 25px !important;
+    }
+
+    .top-h {
+        flex-direction: column;
+    }
+
+    .f-button {
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .f-content h1 {
+        /* margin-bottom: 20px; */
+        font-size: 16px;
+        width: 100%;
+        white-space: nowrap;
+    }
+
+    .f-content p {
+        font-size: 12px;
+    }
+
+    .get-button {
+        padding: 10px 30px;
+    }
+
+    .top-footer .logo-imgfooter {
+        display: none;
+
+    }
+
+    .top-footer .logof {
+        color: white;
+        font-size: 16px;
+        white-space: nowrap;
+        /* font-size: 16px; */
+
+    }
+
+    .top-footer {
+        width: 100%;
+    }
+
+    .top-footer p {
+        color: white;
+        line-height: 20px;
+        font-size: 14px;
+        /* font-size: 13px; */
+    }
+
+    .help {
+        width: 100%;
+    }
+    .help h4{
+        font-size: 16px;
+    }
+.help ul li{
+    font-size: 14px;
+}
+.useful-link h4{
+    font-size: 16px;
+
+}
+.useful-link p{
+    font-size: 14px;
+}
+.newsletter h4{
+    font-size: 16px;
+}
+.newsletter p{
+    font-size: 14px !important;
+
+}
+.top-h .email{
+    padding:15px 39px 15px 33px;
+}
+.signup-b{
+    margin: 0;
+    margin-top: -55px ;
+    margin-left: 150px;
+    /* padding-left: 20px; */
+}
+.top-h {
+    height: fit-content;
+}
+    .useful-link {
+        width: 100%;
+    }
+
+    .newsletter {
+        width: 100%;
+    }
+
+    .newsletter p {
+        color: white;
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .signup-button {
+        top: 10px;
+        margin-top: 5px;
+        position: fixed;
+    }
+
+    .address {
+        width: 100%;
+    }
+
+    .address-footer {
+        flex-direction: column;
+    }
+
+    .address-footer h3 {
+        font-size: 20px;
+        margin-top: 5px;
+        margin-right: 10px;
+    }
+
+    .office-address1 {
+        flex-direction: column !important;
+
+    }
+
+    .office-address1 p {
+        color: white;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .we-accept {
+        white-space: nowrap;
+        width: 100%;
+    }
+
+    .we-accept h3 {
+        margin-bottom: 20px !important;
+    }
+
+    .paymentimg {
+        width: 100%;
+    }
+
+    .last-footer {
+        width: 100%;
+        flex-direction: column;
+        height: fit-content;
+        padding: 20px;
+    }
+
+    .last-footer h6 {
+        white-space: nowrap;
+        font-size: 10px;
+    }
+
+    .social-media {
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+/* Tablet View */
+@media (min-width: 590px) and (max-width: 780px) {
+    .difference {
+        background-image: none;
+
+    }
+    
+
+    .difference .container {
+        flex-direction: column;
+    }
+
+    .box-items p {
+        color: white;
+    }
+
+    .vision h4,
+    p {
+        color: rgba(72, 70, 240, 1);
+    }
+
+    .vision {
+        width: 100%;
+    }
+
+    .mission h4,
+    p {
+        color: rgba(72, 70, 240, 1);
+    }
+
+    .mission {
+        width: 100%;
+    }
+
+    .right {
+        width: 100%;
+        display: none;
+    }
+
+    .container1 .left {
+        width: 100%;
+    }
+
+    .about-img {
+        width: 95%;
+        height: 45%;
+        padding: 10px 20px;
+    }
+
+    .scroll h5 {
+        font-size: 20px;
+        white-space: nowrap;
+    }
+
+    .left .scroll {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .content-1 {
+        width: 100%;
+    }
+
+    .content-1 p {
+        color: black;
+    }
+
+    .scroll p {
+        color: black;
+    }
+
+    .con-button {
+        margin: 0 auto;
+        display: block;
+    }
+
+    .content-1 .left {
+        width: 100%;
+    }
+
+    .service {
+        width: 100%;
+    }
+
+    .service p {
+        color: black;
+    }
+
+    .container1 .scroll {
+        margin: 20px 0;
+        width: 100%;
+    }
+
+    .accontainer {
+        margin: 20px 20px;
+        padding: 0;
+    }
+
+    .container1 {
+        flex-direction: column;
+    }
+
+    .top-h {
+        width: 100%;
+    }
+
+    .get-button {
+        padding: 15px 30px;
+    }
+
+    .top-footer {
+        width: 100%;
+    }
+
+    .logof {
+        color: white;
+        white-space: nowrap;
+        font-size: 25px;
+    }
+
+    .logo-imgfooter {
+        height: 40px;
+    }
+
+    .top-footer p {
+        color: white;
+    }
+
+    .help {
+        width: 50%;
+    }
+
+    .top-h {
+        flex-wrap: wrap;
+    }
+
+    .help ul li {
+        font-size: 16px;
+    }
+
+    .help h4 {
+        margin: 30px 0;
+    }
+
+    .useful-link h4 {
+        margin: 30px 0;
+        white-space: nowrap;
+
+    }
+
+    .newsletter {
+        width: 100%;
+    }
+
+    .useful-link {
+        width: 50%;
+    }
+
+    .signup-b {
+        height: 60px;
+    }
+
+    .address-footer {
+        flex-direction: column;
+    }
+
+    .address {
+        width: 100%;
+    }
+
+    .office-address1 p {
+        color: white;
+    }
+
+    .office-address1 {
+        flex-direction: column;
+
+    }
+    .logo .logo-img{
+        margin-top: 4px;
+    }
+    .middle .bt-contact{
+        padding: 5px 10px;
+        margin-right: 10px;
+    }
+}

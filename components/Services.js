@@ -3,7 +3,7 @@ import { HiOutlineComputerDesktop } from 'react-icons/hi2'
 
 function Services() {
     return (
-        <div className="container1 d-flex ">
+        <div className="container1 d-flex clservice ">
             <div className="service">
                 <h5>what to expect</h5>
                 <h1>Why services?</h1>

@@ -50,7 +50,7 @@ body {
     font-weight: 550;
     white-space: nowrap;
     text-transform: uppercase;
-    /* color: white; */
+    color: white;
 
 }
 
@@ -292,7 +292,7 @@ body {
 
 .logof {
     font-size: 30px;
-    color: rgba(38, 90, 195, 1);
+    /* color: rgba(38, 90, 195, 1); */
 }
 
 /* .top-footer p{

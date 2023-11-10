@@ -2,7 +2,7 @@ import React from 'react'
 
 function Aboutheader() {
     return (
-        <div className="container">
+        <div className="container accontainer">
 
             <div  className="accor accordion" class="" id="accordionExample" >
                 <div class="accordion-item">
