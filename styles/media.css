@@ -231,8 +231,8 @@
 .signup-b{
     margin: 0;
     position: absolute;
-    margin-top: -55px ;
-    margin-left: 150px;
+    /* margin-top: -55px ; */
+    /* margin-left: 150px; */
     white-space: nowrap;
     /* padding-left: 20px; */
 }
