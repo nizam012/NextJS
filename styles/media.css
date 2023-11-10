@@ -225,11 +225,12 @@
 
 }
 .top-h .email{
-    padding:15px 39px 15px 25px;
+    padding:15px 30px 15px 25px;
     position: relative;
 }
 .signup-b{
-    margin: 0;
+    margin: 1px -80px -70px;
+
     position: absolute;
     /* margin-top: -55px ; */
     /* margin-left: 150px; */
