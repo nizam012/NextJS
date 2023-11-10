@@ -16,7 +16,7 @@ function AboutFooter() {
                 <div className="top-h d-flex justify-content-between ">
                     <div className="f-content">
                         <h1>Looking for the <span> Business</span> Solution ?  </h1>
-                        <p>&apos;Don’t wait make a smart & logical quote here. Its pretty easy.</p>
+                        <p>Don&apos;t wait make a smart & logical quote here. Its pretty easy.</p>
                     </div>
                     <div className="f-button">
                         <button className='get-button' >Get quate now </button>
@@ -55,7 +55,7 @@ function AboutFooter() {
                     </div>
                     <div className="newsletter">
                         <h4>Signup For newsletter</h4>
-                        <p>Sign up for a newsletter, we deliver a value to you and make it a pleasant read! We don't spam and we don't make it unpleasant for you.</p>
+                        <p>Sign up for a newsletter, we deliver a value to you and make it a pleasant read! We don&apos;t spam and we don&apos;t make it unpleasant for you.</p>
                         <input type="email" className='email' placeholder='Enter you Email' />
                         <button className='signup-b' >SIGN UP</button>
                     </div>
